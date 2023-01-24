@@ -11,3 +11,5 @@ insert into students name,age,nationality value ("bahaa", 22, "palestinian")
 
 
 select * from students
+
+-- new change by Bahaa
